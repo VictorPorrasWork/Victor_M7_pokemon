@@ -8,7 +8,7 @@ Curs: DAW2A<br>
 
 ## Índex
 
-### 1-Descripció del projecte <a name="descripcio"></a><br>
+### 1-[Descripció del projecte](#descripcio)></a><br>
 ### 2-Diagrama E-R <a name="er"></a><br>
 ### 3-Model Relacional <a name="model"></a><br>
 ### 4-CRUD online de totes les taules <a name="crud"></a><br>
