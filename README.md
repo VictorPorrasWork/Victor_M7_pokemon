@@ -32,7 +32,7 @@ Es pot gestionar la informacio de les diferents entitats, realitzant el CRUD en 
 Es poden crear, actualitzar i eliminar registres en la base de dades de "Pokemon".<br>
 
 ### 2-Diagrama E-R<br>
-![Texto alternativo de la imagen](pokemon/imatges/pokemon.jpg)<br>
+![Texto alternativo de la imagen](pokemon/imatges/pokemon1.jpg)<br>
 
 Relació M a N: Pokemon amb Entrenador, molts pokemons poden tenir entrenadors i molts entrenadors poden tenir molts pokemons.<br>
 Relació 1 a N: Regió amb Entrenador, en una regió pertanyen molts entrenadors i molts entrenadors pertanyen a una regió.<br>
