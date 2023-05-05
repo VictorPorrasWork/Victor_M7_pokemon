@@ -4,7 +4,7 @@ M7:UF1 - Generació dinàmica depàgines web<br>
 
 Professor: Ramon Cervera<br>
 Alumne: Victor Porras Carrasco<br>
-Curs: DAW1A<br>
+Curs: DAW2A<br>
 
 ## Índex
 
