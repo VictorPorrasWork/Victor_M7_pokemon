@@ -9,14 +9,14 @@ Curs: DAW2A<br>
 ## Índex
 
 ### [1-Descripció del projecte](#descripcio)</a><br>
-### 2-Diagrama E-R <a name="er"></a><br>
-### 3-Model Relacional <a name="model"></a><br>
-### 4-CRUD online de totes les taules <a name="crud"></a><br>
-### 5-Aplicació navegable a través de menú <a name="navegacio"></a><br>
-### 6-CSS Bootstrap <a name="css"></a><br>
-### 7-Validació de les dades <a name="validacio"></a><br>
-### 8-Validació d’usuaris <a name="validacio_usuari"></a><br>
-### 9-Repoblament de formularis <a name="repoblament"></a><br>
+### [2-Diagrama E-R](#er)</a><br>
+### [3-Model Relacional](#model)</a><br>
+### [4-CRUD online de totes les taules](#crud)</a><br>
+### [5-Aplicació navegable a través de menú](#navegacio)</a><br>
+### [6-CSS Bootstrap](#css)</a><br>
+### [7-Validació de les dades](#validacio)</a><br>
+### [8-Validació d’usuaris](#validacio_usuari)</a><br>
+### [9-Repoblament de formularis](#repoblament)</a><br>
 
 ### 1-Descripció del projecte <a name="descripcio"></a><br>
 
