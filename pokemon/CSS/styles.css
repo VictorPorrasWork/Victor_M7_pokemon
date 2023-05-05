@@ -1,0 +1,90 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css");
+
+/* Estilos para la tabla de pokemons */
+table {
+  margin-top: 20px;
+  margin-left: 60px;
+}
+
+th {
+  background-color: #007bff;
+  color: #fff;
+}
+
+td {
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  padding-left:20px;
+  padding-right:20px;
+
+  }
+
+/* Estilos para los botones */
+.btn {
+  margin-right: 5px;
+}
+.title {
+  font-weight: bold;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+
+a:hover {
+    color: green;
+    text-decoration: none;
+}
+
+#botdel {
+    background-color: gray;
+    border-radius: 5px;
+    margin-right: 30px;
+    width: 150px;
+}
+
+#botact {
+    background-color: blue;
+    border-radius: 5px;
+    margin-right: 30px;
+    width: 150px;
+}
+td a {
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  margin-left: 60px;
+}
+p#desp{
+margin-left: 15px;
+}
+
+a#naveg{
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+img {
+  width: 53%;
+  height: 53%;
+  position: relative;
+  left: 20px;
+  bottom: 20px;
+  margin-top: 20px;
+}
+
+
+
+
