@@ -8,7 +8,7 @@ Curs: DAW2A<br>
 
 ## Índex
 
-### 1-Descripció del projecte<a name="descripcio"></a><br>
+### 1-Descripció del projecte<a name="descripcio"></a>(#descripcio)<br>
 ### 2-Diagrama E-R<br>
 ### 3-Model Relacional<br>
 ### 4-CRUD online de totes les taules<br>
@@ -18,7 +18,7 @@ Curs: DAW2A<br>
 ### 8-Validació d’usuaris<br>
 ### 9-Repoblament de formularis<br><br>
 
-### 1-Descripció del projecte Descripció del projecte(#descripcio)<br>
+### 1-Descripció del projecte<br>
 
 He dut a terme la creació d’una aplicació, per gestionar informació referent als registres dels pokemon amb el gestor de base dades "MySQL" phpMyAdmin. Per mitjà del framework Laravel en llegnuatge PHP.<br>
 
