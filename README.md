@@ -1,7 +1,7 @@
 # Projecte Pokemon Aplicació Web Entorn Servidor
 
 ## Índex
-<br><br>
+<br>
 ### 1-Descripció del projecte<br>
 ### 2-Diagrama E-R<br>
 ### 3-Model Relacional<br>
@@ -11,6 +11,8 @@
 ### 7-CSS Bootstrap<br>
 ### 8-Validació de les dades <br>
 ### 9-Validació d’usuaris<br>
-### 10-Repoblament de formularis<br><br>
+### 10-Repoblament de formularis<br>
+
+
 
 
