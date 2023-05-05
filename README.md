@@ -47,5 +47,20 @@ Relació 1 a N: Regió amb Entrenador, en una regió pertanyen molts entrenadors
 &nbsp;&nbsp;&nbsp;&nbsp;On id_pokemon és clau forana de Pokemon.<br>
 - Usuari (id_usuari, nom, cognoms, email, username, password)<br>
 
-5-CRUD online de totes les taules<br>
+### 5-CRUD online de totes les taules<br>
+A continuació foto de les taules, vista desde phpMyAdmin:<br>
+![phpmyadmin](phpmy.png/imatges/pokemon1.jpg)<br>
+Vista del CRUD de la taula Pokemons:<br>
+![phpmyadmin](pokemonTaula.png/imatges/pokemon1.jpg)<br>
+Vista del CRUD de la taula Usuaris:<br>
+![phpmyadmin](usuari.png/imatges/pokemon1.jpg)<br>
+Vista del CRUD de la taula Regions:<br>
+![phpmyadmin](regio.png/imatges/pokemon1.jpg)<br>
+Vista del CRUD de la taula Entrenadors:<br>
+![phpmyadmin](1AN.png/imatges/pokemon1.jpg)<br>
+En aquesta vista tenim la unio del 1 a N el id_regio foreign key passa a la taula Entrenadors, per tant hi ha per establir la relacio Entrenador amb la columna nom (atribut) de la regio.
+Vista del CRUD de la taula M a N:<br>
+![phpmyadmin](MaN.png/imatges/pokemon1.jpg)<br>
+
+### 6-Aplicació navegable a través de menú<br>
 
