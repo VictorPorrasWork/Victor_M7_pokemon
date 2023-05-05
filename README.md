@@ -32,18 +32,20 @@ Es pot gestionar la informacio de les diferents entitats, realitzant el CRUD en 
 Es poden crear, actualitzar i eliminar registres en la base de dades de "Pokemon".<br>
 
 ### 2-Diagrama E-R<br>
-![Texto alternativo de la imagen](pokemon/imatges/pokemon1.jpg)<br>
+![Diagrama Entitat Relació](pokemon/imatges/pokemon1.jpg)<br>
 
 Relació M a N: Pokemon amb Entrenador, molts pokemons poden tenir entrenadors i molts entrenadors poden tenir molts pokemons.<br>
 Relació 1 a N: Regió amb Entrenador, en una regió pertanyen molts entrenadors i molts entrenadors pertanyen a una regió.<br>
 
 ### 3-Model Relacional<br>
 
-Pokemon (id_pokemon, nom, tipus).
-Entrenador (id_entrenador, nom, nº medalles, id_regió).
-Regió (id_regió, nom, clima).
-Té (id_entrenador, id_pokemon)
-	On id_entrenador és clau forana de Entrenador.
-	On id_pokemon és clau forana de Pokemon.
-Usuari (id_usuari, nom, cognoms, email, username, password)
+- Pokemon (id_pokemon, nom, tipus).<br>
+- Entrenador (id_entrenador, nom, nº medalles, id_regió).<br>
+- Regió (id_regió, nom, clima).<br>
+- Té (id_entrenador, id_pokemon)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;On id_entrenador és clau forana de Entrenador.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;On id_pokemon és clau forana de Pokemon.<br>
+- Usuari (id_usuari, nom, cognoms, email, username, password)<br>
+
+5-CRUD online de totes les taules<br>
 
