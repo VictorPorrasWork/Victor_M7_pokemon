@@ -1,0 +1,7 @@
+Posar al login per accedir a Pokemon
+
+Username: ash
+Password: ash
+
+Username: gary
+Password: gary
